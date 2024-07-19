@@ -1,2 +1,5 @@
 streamlit
 pandas
+smartsheet
+seaborn
+matplotlib
